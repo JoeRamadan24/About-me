@@ -5,17 +5,10 @@ Aspiring Cybersecurity Intermediate | Computer Science Student
 📧 Youseframadan002016@gmail.com
 📞 (+20) 155 441 4846
 🔗 LinkedIn: https://www.linkedin.com/in/yosof-ramadan
-🌐 GitHub: 
-
-
----
 
 👋 About Me
 
 I'm a computer science student at Egyptian E-Learning University, currently building my foundation in cybersecurity and network infrastructure. I'm passionate about creating safer digital environments and constantly learning through labs, simulations, and hands-on exploration. My goal is to specialize in ethical hacking and defensive security while working on impactful real-world problems.
-
-
----
 
 🧠 Technical Skills
 
@@ -27,7 +20,7 @@ JavaScript (beginner level)
 
 Python (currently learning)
 
-Cybersecurity Labs: TryHackMe, Wireshark, Nmap basics
+Cybersecurity Labs: TryHackMe, Nmap basics
 
 Soft Skills: Communication, Troubleshooting, Critical Thinking
 
@@ -39,10 +32,9 @@ Soft Skills: Communication, Troubleshooting, Critical Thinking
 
 Project / Lab	Description	Link/Screenshot
 
-TryHackMe Labs	Completed beginner labs including "Intro to Cybersecurity" and "Nmap Room"	tryhackme.com
-Wireshark Analysis	Analyzed a basic PCAP file to identify malicious DNS queries as a learning exercise	–
-Nmap Scanning Practice	Used Nmap on a local virtual machine to detect open ports and services	–
-Mini JavaScript Project	Created a simple calculator app to strengthen logic and DOM skills	(Add GitHub repo if available)
+TryHackMe -> Completed beginner labs including "Intro to Cybersecurity" and "Nmap Room" on tryhackme.com
+Nmap Scanning -> Used Nmap on a local virtual machine to detect open ports and services
+Mini JavaScript Project -> Created a simple calculator app to strengthen logic and DOM skills	(Add GitHub repo if available)
 
 
 
